@@ -1463,9 +1463,10 @@ hmac-drbg@^1.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.1"
 
-hopr-types@hoprnet/hopr-types:
+hopr-types@validitylabs/hopr-types:
   version "0.3.0"
-  resolved "https://codeload.github.com/hoprnet/hopr-types/tar.gz/42c4a413e419dc936700b664c255d2856854be6b"
+  uid "35b74785e8b0a408943715db254f9ecc3a71cc4d"
+  resolved "https://codeload.github.com/validitylabs/hopr-types/tar.gz/35b74785e8b0a408943715db254f9ecc3a71cc4d"
 
 http-cache-semantics@^4.0.0:
   version "4.0.3"
@@ -1755,9 +1756,9 @@ keccak@^2.0.0:
     safe-buffer "^5.2.0"
 
 keypair@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/keypair/-/keypair-1.0.1.tgz#7603719270afb6564ed38a22087a06fc9aa4ea1b"
-  integrity sha1-dgNxknCvtlZO04oiCHoG/Jqk6hs=
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/keypair/-/keypair-1.0.4.tgz#a749a45f388593f3950f18b3757d32a93bd8ce83"
+  integrity sha512-zwhgOhhniaL7oxMgUMKKw5219PWWABMO+dgMnzJOQ2/5L3XJtTJGhW2PEXlxXj9zaccdReZJZ83+4NPhVfNVDg==
 
 keyv@^3.0.0:
   version "3.1.0"
